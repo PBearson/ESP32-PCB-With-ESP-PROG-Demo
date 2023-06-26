@@ -20,10 +20,10 @@ The purpose of this project is to show users how to pair the ESP-WROOM-32 develo
 
     You will need the following hardware to complete this project:
 
-    * A Hiletgo ESP32-WROOM-32 development board
+    * A SaTC_EDU ESP32 PCB 
     * ESP-PROG
     * 1 USB cable
-    * 6 male-to-female jumper wires
+    * 6 female-to-female jumper wires
 
     ESP-PROG contains a 10-pin header which allows wiring to the JTAG interface. For reference, each pin on the header is numbered in the figure below: 
 
